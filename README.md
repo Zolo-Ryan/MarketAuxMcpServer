@@ -49,6 +49,7 @@ Contributions are welcomed! Please free to submit a PR.
 
 > Only the Free Tier endpoint is implemented.
 
+> Added to [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers/pull/925)
 ### Disclaimer
 
 This is not officially associated with Marketaux api. It is a third party implementation of the api with a MCP Server.
